@@ -4,8 +4,8 @@ print ("")
 print ("")
 print("""processing.......""")
 
-API_KEY = ''
-API_HASH = ""
+APP_ID = int(input("Enter APP ID here: "))
+API_HASH = input("Enter API HASH here: ")
 while True:
   try:
    with TelegramClient(StringSession(), API_KEY, API_HASH) as client:
