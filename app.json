@@ -58,7 +58,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "Get this value from https://fridayuserbot.midhunkm1294bit.repl.run",
+      "description": "Get this value from https://Deepak15011/FridayUserbott.repl.run",
       "value": ""
     },
     "GITHUB_ACCESS_TOKEN": {
@@ -90,7 +90,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "813878981",
+      "value": "",
       "required": false
     },
     "CHROME_BIN": {
